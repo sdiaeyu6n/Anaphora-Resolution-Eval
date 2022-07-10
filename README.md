@@ -7,5 +7,8 @@
 < 분류표 >  
   <img src="https://user-images.githubusercontent.com/89725142/178155852-01327c06-e817-4ef3-8c98-545235676fc0.png" width="400" height="200"/>
 
-< 내용 설명 ppt 다운로드>  
+< 분류표 설명 ppt >  
 [evaluation 분류표.pptx](https://github.com/sdiaeyu6n/zero_anaphora_resolution/files/9079554/evaluation.pptx)
+
+< 참고 논문 >  
+https://koreascience.kr/article/CFKO202130060666823.pdf
