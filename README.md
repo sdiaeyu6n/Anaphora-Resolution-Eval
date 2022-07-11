@@ -5,10 +5,10 @@
 3. evaluation_categorization2.py - 분류표 기반 precision 계산 방식 -> 함수 실행 시 값 return
 
 < 분류표 >  
-  <img src="https://user-images.githubusercontent.com/89725142/178155852-01327c06-e817-4ef3-8c98-545235676fc0.png" width="400" height="200"/>
+  <img src="https://user-images.githubusercontent.com/89725142/178310408-a046c339-a0eb-4c67-97ef-78e746f966ac.png" width="520" height="200"/>
 
 < 분류표 설명 ppt >  
-[evaluation 분류표.pptx](https://github.com/sdiaeyu6n/zero_anaphora_resolution/files/9079554/evaluation.pptx)
+[evaluation 분류표.pptx](https://github.com/sdiaeyu6n/zero_anaphora_resolution/files/9085827/evaluation.pptx)
 
 < 참고 논문 >  
 https://koreascience.kr/article/CFKO202130060666823.pdf
